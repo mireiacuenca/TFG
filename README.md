@@ -18,15 +18,15 @@ The structure of the project is divided into three parts: processing and cleanin
 | Part 3: Modelling     | Creating models to predict values.      |
 
 Each part is formed of five blocks depending on the data. Each block has their datasets and from each we want to extract some information and results.
-##### - Block 1: Commercial, industrial and domestic datasets
+##### - Block 1: Commercial 🛍️, industrial 🏭 and domestic 🏘️ datasets
 Water consumption analysis in different sectors: commercial, industrial and domestic.
 ##### - Block 2: Water consumption by activity dataset
 Water consumption analysis by activities.
 ##### - Block 3: Census section datasets
-Water consumption and population analysis of each census section.
+Water consumption and population 👨‍👩‍👧‍👦 analysis of each census section.
 ##### - Block 4: Postal code datasets
-Water and electricity consumption analysis.
-##### - Block 5: District zone datasets
+Water and electricity consumption analysis. 🔋
+##### - Block 5: District zone datasets 🏙️
 Water consumption and population analysis by district zone considering the Gini index and the average rent of each district zone.
 
 ### Datasets
