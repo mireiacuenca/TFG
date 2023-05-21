@@ -2,26 +2,14 @@
 
 ##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Descripción del proyecto](#Título-e-imagen-de-portada)
 
-*[Insignias](#insignias)
+*[Estructura del proyecto](#insignias)
 
-*[Índice](#índice)
+*[Processing and cleanning datasets](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Dataset exploratory and analysis](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+*[Modelling](#Estado-del-proyecto)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
+*[Data](#Características-de-la-aplicación-y-demostración)
