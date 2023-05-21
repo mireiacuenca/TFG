@@ -44,3 +44,4 @@ Once we have processed and cleaned all the dataset it is the time for explore al
 ### PART 3: Modelling 📌
 This section of the project consists of the data treatment for the usage of models and how to use these models to predict different situations about the evolution of water and electricity consumption.<br>
 [Code Modelling](PART_3_MODELLING.ipynb)
+[Modelling Approach](Modelling_approach.pdf)
