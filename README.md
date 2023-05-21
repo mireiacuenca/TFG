@@ -1,4 +1,4 @@
-# TFG THESIS 👩‍🎓 HOW COVID-19 AFFECTED OUR LIFESTYLE?
+# TFG THESIS 👩‍🎓 How COVID-19 affected our lifestyle?
 ## Water 🚿 and electricity 🔌 pattern consumption analysis during the Covid-19 pandemic in Barcelona :mask:
 
 ### Abstract
