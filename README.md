@@ -1,8 +1,7 @@
 # How COVID-19 affected our lifestyle? ⚠️
 ## TFG THESIS 👩‍🎓: Water 🚿 and electricity 🔌 pattern consumption analysis during the Covid-19 pandemic in Barcelona :mask:
 ## Mireia Cuenca Gómez, Director: Manuel Portela, Universitat Pompeu Fabra
-TFG:<br>
-Planning TFG:<br>
+
 
 ### Abstract
 
