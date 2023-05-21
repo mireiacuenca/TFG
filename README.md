@@ -30,7 +30,7 @@ Water and electricity consumption analysis.
 Water consumption and population analysis by district zone considering the Gini index and the average rent of each district zone.
 
 ### Datasets
-For the development of the project, I have worked with open data from the Ajuntament de Barcelona and private data from Aigües de Barcelona. Aigües de Barcelona have provided us of water consumption data in Barcelona and surroundings. Thanks to the public open data website of Ajuntament de Barcelona I could cross data of water consumption with population and electricity data of the different areas in Barcelona. 📍 <br>
+For the development of the project, we have worked with open data from the Ajuntament de Barcelona and private data from Aigües de Barcelona. Aigües de Barcelona have provided us of water consumption data in Barcelona and surroundings. Thanks to the public open data website of Ajuntament de Barcelona we could cross data of water consumption with population and electricity data of the different areas in Barcelona. 📍 <br>
 All the data used is from the city of Barcelona and during the years 2019 (before covid), 2020 (during covid) and 2021 (after covid).<br>
 
 ### PART 1: Processing and cleanning datasets 🗂️
