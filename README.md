@@ -1,6 +1,6 @@
 # How COVID-19 affected our lifestyle? ⚠️
 ## TFG THESIS 👩‍🎓: Water 🚿 and electricity 🔌 pattern consumption analysis during the Covid-19 pandemic in Barcelona :mask:
-
+## Mireia Cuenca Gómez, Director: Manuel Portela, Universitat Pompeu Fabra
 ### Abstract
 
 Covid-19 pandemic had an impact on our society, changing the way people interact and their habits. Focusing on the city of Barcelona, during 2020, citizens were confined several months, and this had affected to their lifestyles. 🏡 This project aims to analyse how the water and electricity consumption in Barcelona reflect these changes in the daily life of people. <br><br>
