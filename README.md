@@ -35,6 +35,7 @@ Water consumption and population analysis by district zone considering the Gini 
 For the development of the project, we have worked with open data from the Ajuntament de Barcelona and private data from Aigües de Barcelona. Aigües de Barcelona have provided us of water consumption data in Barcelona and surroundings. Thanks to the public open data website of Ajuntament de Barcelona we could cross data of water consumption with population and electricity data of the different areas in Barcelona. 📍 <br>
 All the data used is from the city of Barcelona and during the years 2019, 2020 and 2021.<br>
 [Original datasets from Open Data Ajuntament de Barcelona](data/original_datasets)
+The datasets provided by Aigües de Barcelona are not open data, therefore, they will not be available in this repository.
 
 ### PART 1: Processing and cleanning datasets 🗂️
 The essential part for starting analysing data is processing the datasets and cleaning the data. As we have different datasets, we have decided to separate it in five blocks depending on the area of Barcelona and the available data.<br>
