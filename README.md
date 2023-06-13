@@ -2,6 +2,9 @@
 ## TFG THESIS 👩‍🎓: Water 🚿 and electricity 🔌 pattern consumption analysis during the Covid-19 pandemic in Barcelona :mask:
 ## Mireia Cuenca Gómez, Director: Manuel Portela, Universitat Pompeu Fabra
 
+Memory TFG:<br>
+Presentation TFG:<br>
+Example of a dataset visualization and plots used in the memory: [Folder figures](figures)
 
 ### Abstract
 
